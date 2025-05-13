@@ -83,7 +83,7 @@ src/
 - Optimized collision detection
 - Efficient post-processing pipeline
 - Continuous collision detection (CCD) for projectiles
-- 
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
